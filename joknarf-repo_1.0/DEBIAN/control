@@ -1,0 +1,8 @@
+Package: joknarf-repo
+Version: 1.0
+Section: admin
+Priority: optional
+Architecture: all
+Maintainer: joknarf <joknarf@free.fr>
+Description: Enable Joknarf APT repository
+Build-Date: 1766949573

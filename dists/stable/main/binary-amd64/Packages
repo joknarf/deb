@@ -1,0 +1,318 @@
+Package: dfbar
+Version: 1.0.2
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 3
+Filename: pool/main/dfbar.deb
+Size: 2582
+MD5sum: b979222e881b4d7eabc794ea7bc08225
+SHA1: ded55c660201ef162e674f2d2992e28229e2004f
+SHA256: f45e4bc7abd935f1cc49ffdf6ec5f607aa0840d431d46970609de3d19c595471
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/dfbar
+Description: df enhancer with colors and usage percent bar
+Build-Date: 1766946655
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: fuse-sshautofs
+Version: 1.1.7
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 2084
+Depends: fuse3, sshfs
+Filename: pool/main/fuse-sshautofs_amd64.deb
+Size: 906440
+MD5sum: e81f5b1f1f95493d21c71abc3e2e09dd
+SHA1: d0cabb629fccf71e0832acca5059d351647abb6d
+SHA256: 9c76fcf9f3269f440922cd173898c7339c398b6fa9f8473532f9954377c93fcf
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/fuse-sshautofs
+Description: fuse automount sshfs filesystems
+Build-Date: 1767014422
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: fuse-sshautofs
+Version: 1.1.7
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 2432
+Depends: fuse3, sshfs
+Filename: pool/main/fuse-sshautofs_arm64.deb
+Size: 987890
+MD5sum: 966a17540c12c79cb41adb74a4cec914
+SHA1: 2216f57d8aab9ee09211c76071da5019397689c0
+SHA256: 6b2efc091cb27e3226e3ec3bf95a22d7d52177d7d154ab7025566497ade3c74d
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/fuse-sshautofs
+Description: fuse automount sshfs filesystems
+Build-Date: 1767014541
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: joknarf-repo
+Version: 1.0
+Architecture: all
+Maintainer: joknarf <joknarf@free.fr>
+Filename: pool/main/joknarf-repo.deb
+Size: 702
+MD5sum: 711d4a87ed14ada9578a226127ae86ea
+SHA1: c60fba289079375739c04fa85995a51680ce7569
+SHA256: 95c7f3b9d160b5063fd77f8ab9334f02fc19bcd3a215bb506ce89b8d1191bfef
+Section: admin
+Priority: optional
+Description: Enable Joknarf APT repository
+Build-Date: 1766949573
+
+Package: lsicon
+Version: 1.3.1
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 21
+Filename: pool/main/lsicon.deb
+Size: 9688
+MD5sum: 7ecec7409c7e03f11ae0eb73e373c3f7
+SHA1: b51d0c08fb86caba270853e1f978b08b09ba0004
+SHA256: dcd326750813d8465710420a828cf66366b00f66fbc35796dd04d93b41cc2b5a
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/lsicon
+Description: ls command enhancer (icons/colors/tree)
+Build-Date: 1767098057
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: mkshz
+Version: 1.0.3
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 4
+Filename: pool/main/mkshz.deb
+Size: 2600
+MD5sum: 1f27645ea2172d4d041b17842ac571a0
+SHA1: 0538f54727873dc89260757a5e5a9ea1b2b9b543
+SHA256: 4861d4b5447a65ee511ab966968493e0646593c8cb69af9ac0f4cab31d14d410
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/mkshz
+Description: self extracting shell gzip tarball packager
+Build-Date: 1766946045
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: neonfiglet
+Version: 1.3.5
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 12
+Filename: pool/main/neonfiglet.deb
+Size: 5298
+MD5sum: 6b1d14a05ee543d7df58edd105c96c93
+SHA1: 3f9945bd8b59a71464ecfd876a0c0d2ec9bb389a
+SHA256: f5d1e28238484941873ee93fbf32857ba3f9444681032cb1b9060b4f4c112f7a
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/neonfiglet
+Description: Neon Animated Banners
+Build-Date: 1767099755
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: pgtree
+Version: 1.1.7
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 18
+Filename: pool/main/pgtree.deb
+Size: 6838
+MD5sum: bfb8279e9474a0d412b6e5c49207cc8e
+SHA1: 680a93b95e1106f5de0fdf006059e95818abd708
+SHA256: cab016bbad47272c8c6592fbf22a58c430180e8941f53acc833b3568c3bf63ec
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/pgtree
+Description: process tree search
+Build-Date: 1766948635
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: portune
+Version: 1.0.14
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 8305
+Filename: pool/main/portune_arm64.deb
+Size: 8397250
+MD5sum: 8fee7b04412e8629e3c9f2c5a57528ee
+SHA1: 658b23aa2b16244c66f0b243edcc9383a942177d
+SHA256: 86fc4f9f5669889bdba896e89750b23054f9ecb75bcf396fe0813e3322233eb6
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/portune
+Description: massive port scanner
+Build-Date: 1767006891
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: portune
+Version: 1.0.14
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 14648
+Filename: pool/main/portune_amd64.deb
+Size: 14861812
+MD5sum: 440d4a7afd869a2346f23a7eda8134b6
+SHA1: 23a219a4a9af706b9223dd993283ef64dba548db
+SHA256: 7832c87629d58bad1a756bb8600c9b31a1e7831ca862851e68df20cebe25adb5
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/portune
+Description: massive port scanner
+Build-Date: 1767006772
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: pywebfs
+Version: 1.1.24
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 27168
+Filename: pool/main/pywebfs_arm64.deb
+Size: 10354906
+MD5sum: 35a58eb05d97292d5f997f10400de880
+SHA1: ed830cbd2c90dd249183cccaccc04b0b14b7f7cc
+SHA256: 0d2d3ffc5b7ba4e5cb6d8cdabe37a7b82f30c6d0f953c3f2bae56d8ab7d06e6f
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/pywebfs
+Description: Simple HTTP File Server
+Build-Date: 1767190730
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: pywebfs
+Version: 1.1.24
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 26594
+Filename: pool/main/pywebfs_amd64.deb
+Size: 11244308
+MD5sum: f0e48a0d1fb45b222ecfd760bc6a8b01
+SHA1: 182fe1f54f59d441bdb913e21bda542dd4db6d50
+SHA256: f1de457a9880b9a0a035dd3cfdc765ec9b20f0569bde5a438b464cefcb14e1d8
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/pywebfs
+Description: Simple HTTP File Server
+Build-Date: 1767190600
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: run-para
+Version: 1.2.19
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 6196
+Filename: pool/main/run-para_arm64.deb
+Size: 6206456
+MD5sum: cb643a4fdf272d5318533dba87c7882f
+SHA1: d6f30c38890fe85672f32f8c0acacc02a26cb4c1
+SHA256: 23155154c043049ea7a05a723ea10571f7cea2f34ca1fe015b0442665ecd8a15
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/run-para
+Description: parallel ssh job manager
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: run-para
+Version: 1.2.19
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 6858
+Filename: pool/main/run-para_amd64.deb
+Size: 6908778
+MD5sum: 620dbfba8379c4f75e40034aa86761b6
+SHA1: 51c1c3a243311f066d3edf1bc5e558b93834b9f9
+SHA256: f2cd070cab32160448b95e999fa7f5e8f9ce5b48682175584d39be86bb99c525
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/run-para
+Description: parallel ssh job manager
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: ssh-para
+Version: 1.7.52
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 6197
+Filename: pool/main/ssh-para_arm64.deb
+Size: 6206938
+MD5sum: b464b2e02309e0262f950087336c246e
+SHA1: 6c9bec218914fd0c56792ec051a5489845825487
+SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/ssh-para
+Description: parallel ssh job manager
+License: MIT
+Vendor: none
+
+Package: ssh-para
+Version: 1.7.52
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 6859
+Filename: pool/main/ssh-para_amd64.deb
+Size: 6909268
+MD5sum: 974f38c30c2e0e61dca78af0a478ddae
+SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
+SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/ssh-para
+Description: parallel ssh job manager
+License: MIT
+Vendor: none
+
+Package: targpg
+Version: 1.0.2
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 0
+Filename: pool/main/targpg.deb
+Size: 1326
+MD5sum: 7b29572f7ec6927cacd00bc1bab55e0e
+SHA1: 83fe873e1e93fda63208982c35a51a56b500f4c6
+SHA256: b7c3b1d6ec000ec9f163966d472969be09286e0f04fcc708769c90ea4730076a
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/targpg
+Description: tar gpg password encrypt/decrypt
+Build-Date: 1766946169
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: thefly
+Version: 1.4.5
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 17
+Filename: pool/main/thefly.deb
+Size: 5898
+MD5sum: 61e1d84a94e9b558122e2c105ce3f505
+SHA1: b7ef3fc6ce6ba4b7cbe169c35a2349cffd9db49e
+SHA256: bd99429fd6235e8e86ddec142b758544931e00a8c2aa99843c9fae8d92a668ac
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/thefly
+Description: shell plugin manager teleporter
+Build-Date: 1766947440
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
