@@ -252,15 +252,15 @@ Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 3
 Filename: pool/main/shellme.deb
-Size: 2184
-MD5sum: 7e07cbefdfcf3a7b0af748710321f8ac
-SHA1: dfbe84d8d1a6f54d890b4a9cca13a2491167c52d
-SHA256: f1de9f8fe2365ad06465309595ac2397a8d8cc193081be9f2e772a028cf32c5a
+Size: 2182
+MD5sum: 53dfcfdda77c983675c852b631a2a62c
+SHA1: ced3e143e7fdb3489eafa69dd2aaaa7e5e5a564f
+SHA256: eba4d1aed06392c0bc03318a303bc49bead0d240418e43ae4b4183ad7af966d7
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/shellme
 Description: Human shell typing simulator
-Build-Date: 1767360131
+Build-Date: 1767360323
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
