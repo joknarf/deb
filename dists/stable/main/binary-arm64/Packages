@@ -247,20 +247,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: shellme
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 3
 Filename: pool/main/shellme.deb
-Size: 2182
-MD5sum: 53dfcfdda77c983675c852b631a2a62c
-SHA1: ced3e143e7fdb3489eafa69dd2aaaa7e5e5a564f
-SHA256: eba4d1aed06392c0bc03318a303bc49bead0d240418e43ae4b4183ad7af966d7
+Size: 2204
+MD5sum: 9031f500b09748436de2e7d14dd48809
+SHA1: ede5e6437505efae378cccc1b7a443b49dc74795
+SHA256: 6f7f9f0676989c92d545cbd6daaafaa02ac859b4b930115c82fb55e5ebf93ade
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/shellme
 Description: Human shell typing simulator
-Build-Date: 1767360323
+Build-Date: 1767364730
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
