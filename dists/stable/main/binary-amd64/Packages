@@ -246,6 +246,24 @@ Description: parallel ssh job manager
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
+Package: shellme
+Version: 1.0.0
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 3
+Filename: pool/main/shellme.deb
+Size: 2184
+MD5sum: 7e07cbefdfcf3a7b0af748710321f8ac
+SHA1: dfbe84d8d1a6f54d890b4a9cca13a2491167c52d
+SHA256: f1de9f8fe2365ad06465309595ac2397a8d8cc193081be9f2e772a028cf32c5a
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/shellme
+Description: Human shell typing simulator
+Build-Date: 1767360131
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
 Package: ssh-para
 Version: 1.7.52
 Architecture: arm64
