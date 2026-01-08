@@ -105,20 +105,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: neonfiglet
-Version: 1.3.8
+Version: 1.3.9
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 12
 Filename: pool/main/neonfiglet.deb
-Size: 5340
-MD5sum: c700df4d2dda9618a75b8038edb1bf83
-SHA1: 1f067c0461aea1c9d08474a4302b2a6470eaf1da
-SHA256: 122c8bfcbc2ab53ceb0be72c8b17ed82ae804ab9a72ddbcbc03ae6667a96db34
+Size: 5342
+MD5sum: b5c512bf3a1ecae351e3aadd701544d4
+SHA1: 89ba9493a4d69d47144af8866970e9240a6342e5
+SHA256: 9ccdc834061a51db297dd2371842777d761e8df99909d884070ce225200c58ca
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/neonfiglet
 Description: Neon Animated Banners
-Build-Date: 1767349699
+Build-Date: 1767916628
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
