@@ -7,5 +7,5 @@ served at : [https://joknarf.github.io/deb](https://joknarf.github.io/deb)
 Setup Joknarf Repo on your server:
 ```
 curl -OL https://joknarf.github.io/deb/pool/main/joknarf-repo.deb
-sudo dpkg -i joknarf_repo.deb
+sudo dpkg -i joknarf-repo.deb
 ```
