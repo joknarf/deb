@@ -246,6 +246,24 @@ Description: parallel ssh job manager
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
+Package: selector
+Version: 1.3.1
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 10
+Filename: pool/main/selector.deb
+Size: 4434
+MD5sum: 00b945ab4c2315b103a0fdc7a088835b
+SHA1: 40a10cfdec9ac66e65f3a66366381b7ef0c0e884
+SHA256: 691b0919d5edadd8f33c19f780b69ed4d2c270c0c2fd2728006d1972019b2148
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/selector
+Description: Interactive dynamic select menu
+Build-Date: 1769879932
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
 Package: shellme
 Version: 1.0.1
 Architecture: all
