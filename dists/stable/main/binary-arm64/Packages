@@ -353,20 +353,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: tty-keepalive
-Version: 1.1.5
+Version: 1.1.6
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 1
 Filename: pool/main/tty-keepalive.deb
-Size: 1632
-MD5sum: 76a75fb942b091241dfca3d7c4f7fba0
-SHA1: 42480ac28c06a3c9e7fa2a69a04ff31f2cddfc85
-SHA256: b0015396216f1dbead82e80e6b55d01ef6e5df82e6cb3de150c43a6fc62263bd
+Size: 1634
+MD5sum: 4da515b19a28c560ffa917d832ed462c
+SHA1: 27f297a485c472bc2ea5714a88bb14989dded214
+SHA256: 0015593bd4466b094558dea8e4762190f493f41efd1d29e155b261bf9973c958
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/tty-keepalive
 Description: TTY activity simulator
-Build-Date: 1770845389
+Build-Date: 1770848795
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
