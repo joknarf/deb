@@ -284,14 +284,14 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: ssh-para
 Version: 1.7.52
-Architecture: arm64
+Architecture: amd64
 Maintainer: joknarf@free.fr
-Installed-Size: 6197
-Filename: pool/main/ssh-para_arm64.deb
-Size: 6206938
-MD5sum: b464b2e02309e0262f950087336c246e
-SHA1: 6c9bec218914fd0c56792ec051a5489845825487
-SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
+Installed-Size: 6859
+Filename: pool/main/ssh-para_amd64.deb
+Size: 6909268
+MD5sum: 974f38c30c2e0e61dca78af0a478ddae
+SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
+SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/ssh-para
@@ -301,14 +301,14 @@ Vendor: none
 
 Package: ssh-para
 Version: 1.7.52
-Architecture: amd64
+Architecture: arm64
 Maintainer: joknarf@free.fr
-Installed-Size: 6859
-Filename: pool/main/ssh-para_amd64.deb
-Size: 6909268
-MD5sum: 974f38c30c2e0e61dca78af0a478ddae
-SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
-SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
+Installed-Size: 6197
+Filename: pool/main/ssh-para_arm64.deb
+Size: 6206938
+MD5sum: b464b2e02309e0262f950087336c246e
+SHA1: 6c9bec218914fd0c56792ec051a5489845825487
+SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/ssh-para
@@ -335,20 +335,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: thefly
-Version: 1.4.6
+Version: 1.4.7
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 17
 Filename: pool/main/thefly.deb
-Size: 5922
-MD5sum: cd4cf4462a329a4da961afdc7a09bcfa
-SHA1: 439d19ac69c786d95b4fcb13ec66cf5f5cd30598
-SHA256: ccf802aeb4f36ad7acb15b3fbd6231e0c1df7265696cc49d176888da4c534590
+Size: 5970
+MD5sum: bf488b589f3f685b3aeeb3e7ce139137
+SHA1: a10c6e99bb23f58e6848200c6da453aa3d5b1c82
+SHA256: 14cf0425815faf547e507aab71ab569974a86972fca192c901538cb972428d55
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/thefly
 Description: shell plugin manager teleporter
-Build-Date: 1767807956
+Build-Date: 1772129288
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
