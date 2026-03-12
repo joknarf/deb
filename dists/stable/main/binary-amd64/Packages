@@ -317,20 +317,20 @@ License: MIT
 Vendor: none
 
 Package: targpg
-Version: 1.0.2
+Version: 1.0.3
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 0
 Filename: pool/main/targpg.deb
 Size: 1326
-MD5sum: 7b29572f7ec6927cacd00bc1bab55e0e
-SHA1: 83fe873e1e93fda63208982c35a51a56b500f4c6
-SHA256: b7c3b1d6ec000ec9f163966d472969be09286e0f04fcc708769c90ea4730076a
+MD5sum: 84c077c8d2b5313990f97b187295e04d
+SHA1: a0fcdb39e69a98a30b98da18c805561886c0cc26
+SHA256: 2b156c80ce3ab8a871d946f32bba8dc998c71f8512015107c1a7db28e819637c
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/targpg
 Description: tar gpg password encrypt/decrypt
-Build-Date: 1766946169
+Build-Date: 1773348015
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
