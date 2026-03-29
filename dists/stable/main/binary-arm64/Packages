@@ -69,20 +69,20 @@ Description: Enable Joknarf APT repository
 Build-Date: 1766949573
 
 Package: lsicon
-Version: 1.3.4
+Version: 1.3.5
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 21
 Filename: pool/main/lsicon.deb
-Size: 9872
-MD5sum: 203877c9c92a166fc0cab792541657f7
-SHA1: 8a79aac12bcd19573cefede476a17c0f9a1d19ef
-SHA256: 03a207eb7ee22c6b0ccf7e2872b9fa0e7bd6a7cf9071661c10af22fdd41675e0
+Size: 9880
+MD5sum: 58c43e7c4f6f7f46ac4dff2ec4024968
+SHA1: e56a5414abf87945ceed80100afef5dbfb313550
+SHA256: 3f9caea79f8b079d61903a31af8047ceca17c52e4426b87e020f28e8217c4afb
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/lsicon
 Description: ls command enhancer (icons/colors/tree)
-Build-Date: 1774773092
+Build-Date: 1774778933
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
