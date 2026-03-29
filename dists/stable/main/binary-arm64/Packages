@@ -69,20 +69,20 @@ Description: Enable Joknarf APT repository
 Build-Date: 1766949573
 
 Package: lsicon
-Version: 1.3.3
+Version: 1.3.4
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 21
 Filename: pool/main/lsicon.deb
-Size: 9774
-MD5sum: 774cc69e5c1e12f714acf78717375c97
-SHA1: 38bbb5ac997f389e1af837ddad9f66a553e7d5be
-SHA256: b966caf9ae13e6d76817159e9ca3202573199bdf35319f9c7486276b2650cf45
+Size: 9872
+MD5sum: 203877c9c92a166fc0cab792541657f7
+SHA1: 8a79aac12bcd19573cefede476a17c0f9a1d19ef
+SHA256: 03a207eb7ee22c6b0ccf7e2872b9fa0e7bd6a7cf9071661c10af22fdd41675e0
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/lsicon
 Description: ls command enhancer (icons/colors/tree)
-Build-Date: 1769976034
+Build-Date: 1774773092
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -142,24 +142,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: portune
 Version: 1.0.14
-Architecture: arm64
-Maintainer: joknarf@free.fr
-Installed-Size: 8305
-Filename: pool/main/portune_arm64.deb
-Size: 8397250
-MD5sum: 8fee7b04412e8629e3c9f2c5a57528ee
-SHA1: 658b23aa2b16244c66f0b243edcc9383a942177d
-SHA256: 86fc4f9f5669889bdba896e89750b23054f9ecb75bcf396fe0813e3322233eb6
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/portune
-Description: massive port scanner
-Build-Date: 1767006891
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: portune
-Version: 1.0.14
 Architecture: amd64
 Maintainer: joknarf@free.fr
 Installed-Size: 14648
@@ -176,21 +158,21 @@ Build-Date: 1767006772
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
-Package: pywebfs
-Version: 1.1.24
+Package: portune
+Version: 1.0.14
 Architecture: arm64
 Maintainer: joknarf@free.fr
-Installed-Size: 27168
-Filename: pool/main/pywebfs_arm64.deb
-Size: 10354906
-MD5sum: 35a58eb05d97292d5f997f10400de880
-SHA1: ed830cbd2c90dd249183cccaccc04b0b14b7f7cc
-SHA256: 0d2d3ffc5b7ba4e5cb6d8cdabe37a7b82f30c6d0f953c3f2bae56d8ab7d06e6f
+Installed-Size: 8305
+Filename: pool/main/portune_arm64.deb
+Size: 8397250
+MD5sum: 8fee7b04412e8629e3c9f2c5a57528ee
+SHA1: 658b23aa2b16244c66f0b243edcc9383a942177d
+SHA256: 86fc4f9f5669889bdba896e89750b23054f9ecb75bcf396fe0813e3322233eb6
 Section: default
 Priority: optional
-Homepage: https://github.com/joknarf/pywebfs
-Description: Simple HTTP File Server
-Build-Date: 1767190730
+Homepage: https://github.com/joknarf/portune
+Description: massive port scanner
+Build-Date: 1767006891
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -209,6 +191,24 @@ Priority: optional
 Homepage: https://github.com/joknarf/pywebfs
 Description: Simple HTTP File Server
 Build-Date: 1767190600
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: pywebfs
+Version: 1.1.24
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 27168
+Filename: pool/main/pywebfs_arm64.deb
+Size: 10354906
+MD5sum: 35a58eb05d97292d5f997f10400de880
+SHA1: ed830cbd2c90dd249183cccaccc04b0b14b7f7cc
+SHA256: 0d2d3ffc5b7ba4e5cb6d8cdabe37a7b82f30c6d0f953c3f2bae56d8ab7d06e6f
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/pywebfs
+Description: Simple HTTP File Server
+Build-Date: 1767190730
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -284,14 +284,14 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: ssh-para
 Version: 1.7.52
-Architecture: amd64
+Architecture: arm64
 Maintainer: joknarf@free.fr
-Installed-Size: 6859
-Filename: pool/main/ssh-para_amd64.deb
-Size: 6909268
-MD5sum: 974f38c30c2e0e61dca78af0a478ddae
-SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
-SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
+Installed-Size: 6197
+Filename: pool/main/ssh-para_arm64.deb
+Size: 6206938
+MD5sum: b464b2e02309e0262f950087336c246e
+SHA1: 6c9bec218914fd0c56792ec051a5489845825487
+SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/ssh-para
@@ -301,14 +301,14 @@ Vendor: none
 
 Package: ssh-para
 Version: 1.7.52
-Architecture: arm64
+Architecture: amd64
 Maintainer: joknarf@free.fr
-Installed-Size: 6197
-Filename: pool/main/ssh-para_arm64.deb
-Size: 6206938
-MD5sum: b464b2e02309e0262f950087336c246e
-SHA1: 6c9bec218914fd0c56792ec051a5489845825487
-SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
+Installed-Size: 6859
+Filename: pool/main/ssh-para_amd64.deb
+Size: 6909268
+MD5sum: 974f38c30c2e0e61dca78af0a478ddae
+SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
+SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/ssh-para
