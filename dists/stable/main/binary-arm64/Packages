@@ -142,24 +142,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: portune
 Version: 1.0.15
-Architecture: amd64
-Maintainer: joknarf@free.fr
-Installed-Size: 14654
-Filename: pool/main/portune_amd64.deb
-Size: 14868090
-MD5sum: 1a748446b86ea11044391244d5a5a5b2
-SHA1: 71f718714a770f8d60d93773a73412e0c306edb6
-SHA256: 55c9743f3bed4c4142a1add6d8b740ff369807374f984328df3eb8fb40777e7c
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/portune
-Description: massive port scanner
-Build-Date: 1774899608
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: portune
-Version: 1.0.15
 Architecture: arm64
 Maintainer: joknarf@free.fr
 Installed-Size: 8309
@@ -173,6 +155,24 @@ Priority: optional
 Homepage: https://github.com/joknarf/portune
 Description: massive port scanner
 Build-Date: 1774899728
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: portune
+Version: 1.0.16
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 14654
+Filename: pool/main/portune_amd64.deb
+Size: 14868378
+MD5sum: b1860a7f57b1d9905c3e27ae0ff7f1e6
+SHA1: b12e22617428f4791cf69b195958f16066254307
+SHA256: 1c6c004810195a344d6cf7eef63568cfd58535a2ed4fb64242f692957247d08c
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/portune
+Description: massive port scanner
+Build-Date: 1774909754
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
