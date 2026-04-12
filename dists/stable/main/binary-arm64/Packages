@@ -142,24 +142,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: portune
 Version: 1.0.16
-Architecture: amd64
-Maintainer: joknarf@free.fr
-Installed-Size: 14654
-Filename: pool/main/portune_amd64.deb
-Size: 14868378
-MD5sum: b1860a7f57b1d9905c3e27ae0ff7f1e6
-SHA1: b12e22617428f4791cf69b195958f16066254307
-SHA256: 1c6c004810195a344d6cf7eef63568cfd58535a2ed4fb64242f692957247d08c
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/portune
-Description: massive port scanner
-Build-Date: 1774909754
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: portune
-Version: 1.0.16
 Architecture: arm64
 Maintainer: joknarf@free.fr
 Installed-Size: 8309
@@ -176,21 +158,21 @@ Build-Date: 1774909875
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
-Package: pywebfs
-Version: 1.1.24
+Package: portune
+Version: 1.0.16
 Architecture: amd64
 Maintainer: joknarf@free.fr
-Installed-Size: 26594
-Filename: pool/main/pywebfs_amd64.deb
-Size: 11244308
-MD5sum: f0e48a0d1fb45b222ecfd760bc6a8b01
-SHA1: 182fe1f54f59d441bdb913e21bda542dd4db6d50
-SHA256: f1de457a9880b9a0a035dd3cfdc765ec9b20f0569bde5a438b464cefcb14e1d8
+Installed-Size: 14654
+Filename: pool/main/portune_amd64.deb
+Size: 14868378
+MD5sum: b1860a7f57b1d9905c3e27ae0ff7f1e6
+SHA1: b12e22617428f4791cf69b195958f16066254307
+SHA256: 1c6c004810195a344d6cf7eef63568cfd58535a2ed4fb64242f692957247d08c
 Section: default
 Priority: optional
-Homepage: https://github.com/joknarf/pywebfs
-Description: Simple HTTP File Server
-Build-Date: 1767190600
+Homepage: https://github.com/joknarf/portune
+Description: massive port scanner
+Build-Date: 1774909754
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -212,20 +194,21 @@ Build-Date: 1767190730
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
-Package: run-para
-Version: 1.2.19
-Architecture: arm64
+Package: pywebfs
+Version: 1.1.24
+Architecture: amd64
 Maintainer: joknarf@free.fr
-Installed-Size: 6196
-Filename: pool/main/run-para_arm64.deb
-Size: 6206456
-MD5sum: cb643a4fdf272d5318533dba87c7882f
-SHA1: d6f30c38890fe85672f32f8c0acacc02a26cb4c1
-SHA256: 23155154c043049ea7a05a723ea10571f7cea2f34ca1fe015b0442665ecd8a15
+Installed-Size: 26594
+Filename: pool/main/pywebfs_amd64.deb
+Size: 11244308
+MD5sum: f0e48a0d1fb45b222ecfd760bc6a8b01
+SHA1: 182fe1f54f59d441bdb913e21bda542dd4db6d50
+SHA256: f1de457a9880b9a0a035dd3cfdc765ec9b20f0569bde5a438b464cefcb14e1d8
 Section: default
 Priority: optional
-Homepage: https://github.com/joknarf/run-para
-Description: parallel ssh job manager
+Homepage: https://github.com/joknarf/pywebfs
+Description: Simple HTTP File Server
+Build-Date: 1767190600
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -239,6 +222,23 @@ Size: 6908778
 MD5sum: 620dbfba8379c4f75e40034aa86761b6
 SHA1: 51c1c3a243311f066d3edf1bc5e558b93834b9f9
 SHA256: f2cd070cab32160448b95e999fa7f5e8f9ce5b48682175584d39be86bb99c525
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/run-para
+Description: parallel ssh job manager
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: run-para
+Version: 1.2.19
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 6196
+Filename: pool/main/run-para_arm64.deb
+Size: 6206456
+MD5sum: cb643a4fdf272d5318533dba87c7882f
+SHA1: d6f30c38890fe85672f32f8c0acacc02a26cb4c1
+SHA256: 23155154c043049ea7a05a723ea10571f7cea2f34ca1fe015b0442665ecd8a15
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/run-para
@@ -335,20 +335,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: thefly
-Version: 1.6.1
+Version: 1.6.2
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 23
 Filename: pool/main/thefly.deb
-Size: 7624
-MD5sum: 4409fb173cbcd94d897459165bc4c787
-SHA1: bba65bc8b23aa1acc0e49960d252be74f0846edf
-SHA256: a4c2cdfec25a972ea496d77c6ab6c83aa62f36b0939f34933ba1a12d1ba9c44b
+Size: 7666
+MD5sum: a8304bda60855db787d8c9bf1e7c847c
+SHA1: b960cd7f8ef4fb2b50abd96d8e1017d3ffccedbb
+SHA256: 2524827bd2ed72ade1baf146b524ab112565c00860684074038436e7f6505d8b
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/thefly
 Description: shell plugin manager teleporter
-Build-Date: 1774799639
+Build-Date: 1775992020
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
