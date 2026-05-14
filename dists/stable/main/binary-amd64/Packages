@@ -18,25 +18,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: fuse-sshautofs
 Version: 1.1.7
-Architecture: amd64
-Maintainer: joknarf@free.fr
-Installed-Size: 2084
-Depends: fuse3, sshfs
-Filename: pool/main/fuse-sshautofs_amd64.deb
-Size: 906440
-MD5sum: e81f5b1f1f95493d21c71abc3e2e09dd
-SHA1: d0cabb629fccf71e0832acca5059d351647abb6d
-SHA256: 9c76fcf9f3269f440922cd173898c7339c398b6fa9f8473532f9954377c93fcf
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/fuse-sshautofs
-Description: fuse automount sshfs filesystems
-Build-Date: 1767014422
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: fuse-sshautofs
-Version: 1.1.7
 Architecture: arm64
 Maintainer: joknarf@free.fr
 Installed-Size: 2432
@@ -51,6 +32,25 @@ Priority: optional
 Homepage: https://github.com/joknarf/fuse-sshautofs
 Description: fuse automount sshfs filesystems
 Build-Date: 1767014541
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: fuse-sshautofs
+Version: 1.1.7
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 2084
+Depends: fuse3, sshfs
+Filename: pool/main/fuse-sshautofs_amd64.deb
+Size: 906440
+MD5sum: e81f5b1f1f95493d21c71abc3e2e09dd
+SHA1: d0cabb629fccf71e0832acca5059d351647abb6d
+SHA256: 9c76fcf9f3269f440922cd173898c7339c398b6fa9f8473532f9954377c93fcf
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/fuse-sshautofs
+Description: fuse automount sshfs filesystems
+Build-Date: 1767014422
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -178,24 +178,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: pywebfs
 Version: 1.1.24
-Architecture: arm64
-Maintainer: joknarf@free.fr
-Installed-Size: 27168
-Filename: pool/main/pywebfs_arm64.deb
-Size: 10354906
-MD5sum: 35a58eb05d97292d5f997f10400de880
-SHA1: ed830cbd2c90dd249183cccaccc04b0b14b7f7cc
-SHA256: 0d2d3ffc5b7ba4e5cb6d8cdabe37a7b82f30c6d0f953c3f2bae56d8ab7d06e6f
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/pywebfs
-Description: Simple HTTP File Server
-Build-Date: 1767190730
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: pywebfs
-Version: 1.1.24
 Architecture: amd64
 Maintainer: joknarf@free.fr
 Installed-Size: 26594
@@ -212,20 +194,21 @@ Build-Date: 1767190600
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
-Package: run-para
-Version: 1.2.19
-Architecture: amd64
+Package: pywebfs
+Version: 1.1.24
+Architecture: arm64
 Maintainer: joknarf@free.fr
-Installed-Size: 6858
-Filename: pool/main/run-para_amd64.deb
-Size: 6908778
-MD5sum: 620dbfba8379c4f75e40034aa86761b6
-SHA1: 51c1c3a243311f066d3edf1bc5e558b93834b9f9
-SHA256: f2cd070cab32160448b95e999fa7f5e8f9ce5b48682175584d39be86bb99c525
+Installed-Size: 27168
+Filename: pool/main/pywebfs_arm64.deb
+Size: 10354906
+MD5sum: 35a58eb05d97292d5f997f10400de880
+SHA1: ed830cbd2c90dd249183cccaccc04b0b14b7f7cc
+SHA256: 0d2d3ffc5b7ba4e5cb6d8cdabe37a7b82f30c6d0f953c3f2bae56d8ab7d06e6f
 Section: default
 Priority: optional
-Homepage: https://github.com/joknarf/run-para
-Description: parallel ssh job manager
+Homepage: https://github.com/joknarf/pywebfs
+Description: Simple HTTP File Server
+Build-Date: 1767190730
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -246,21 +229,38 @@ Description: parallel ssh job manager
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
+Package: run-para
+Version: 1.2.19
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 6858
+Filename: pool/main/run-para_amd64.deb
+Size: 6908778
+MD5sum: 620dbfba8379c4f75e40034aa86761b6
+SHA1: 51c1c3a243311f066d3edf1bc5e558b93834b9f9
+SHA256: f2cd070cab32160448b95e999fa7f5e8f9ce5b48682175584d39be86bb99c525
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/run-para
+Description: parallel ssh job manager
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
 Package: selector
-Version: 1.4.2
+Version: 1.4.3
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 11
 Filename: pool/main/selector.deb
-Size: 4852
-MD5sum: 1be43bbf61993402e933e53d004bb43c
-SHA1: 3f1f3ad83b19732be369e06d48b8ff1a97be8cd4
-SHA256: cedf34f1481ab379b3785b60f6f98fdc845207889f40bec8074591bc6e4cce32
+Size: 4918
+MD5sum: 281cc2d5c13dfb635316950424e06001
+SHA1: 471cba150f7b0fbc41abbcee3dc6bd3df6589720
+SHA256: d214036ea6e9915ae3f94676330b31cc0df83e6b0879a2930c563d13273c3eca
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/selector
 Description: Interactive dynamic select menu
-Build-Date: 1778673812
+Build-Date: 1778775919
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
