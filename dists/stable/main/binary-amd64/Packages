@@ -214,14 +214,14 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: run-para
 Version: 1.2.19
-Architecture: amd64
+Architecture: arm64
 Maintainer: joknarf@free.fr
-Installed-Size: 6858
-Filename: pool/main/run-para_amd64.deb
-Size: 6908778
-MD5sum: 620dbfba8379c4f75e40034aa86761b6
-SHA1: 51c1c3a243311f066d3edf1bc5e558b93834b9f9
-SHA256: f2cd070cab32160448b95e999fa7f5e8f9ce5b48682175584d39be86bb99c525
+Installed-Size: 6196
+Filename: pool/main/run-para_arm64.deb
+Size: 6206456
+MD5sum: cb643a4fdf272d5318533dba87c7882f
+SHA1: d6f30c38890fe85672f32f8c0acacc02a26cb4c1
+SHA256: 23155154c043049ea7a05a723ea10571f7cea2f34ca1fe015b0442665ecd8a15
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/run-para
@@ -231,14 +231,14 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: run-para
 Version: 1.2.19
-Architecture: arm64
+Architecture: amd64
 Maintainer: joknarf@free.fr
-Installed-Size: 6196
-Filename: pool/main/run-para_arm64.deb
-Size: 6206456
-MD5sum: cb643a4fdf272d5318533dba87c7882f
-SHA1: d6f30c38890fe85672f32f8c0acacc02a26cb4c1
-SHA256: 23155154c043049ea7a05a723ea10571f7cea2f34ca1fe015b0442665ecd8a15
+Installed-Size: 6858
+Filename: pool/main/run-para_amd64.deb
+Size: 6908778
+MD5sum: 620dbfba8379c4f75e40034aa86761b6
+SHA1: 51c1c3a243311f066d3edf1bc5e558b93834b9f9
+SHA256: f2cd070cab32160448b95e999fa7f5e8f9ce5b48682175584d39be86bb99c525
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/run-para
@@ -284,14 +284,14 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: ssh-para
 Version: 1.7.52
-Architecture: arm64
+Architecture: amd64
 Maintainer: joknarf@free.fr
-Installed-Size: 6197
-Filename: pool/main/ssh-para_arm64.deb
-Size: 6206938
-MD5sum: b464b2e02309e0262f950087336c246e
-SHA1: 6c9bec218914fd0c56792ec051a5489845825487
-SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
+Installed-Size: 6859
+Filename: pool/main/ssh-para_amd64.deb
+Size: 6909268
+MD5sum: 974f38c30c2e0e61dca78af0a478ddae
+SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
+SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/ssh-para
@@ -301,14 +301,14 @@ Vendor: none
 
 Package: ssh-para
 Version: 1.7.52
-Architecture: amd64
+Architecture: arm64
 Maintainer: joknarf@free.fr
-Installed-Size: 6859
-Filename: pool/main/ssh-para_amd64.deb
-Size: 6909268
-MD5sum: 974f38c30c2e0e61dca78af0a478ddae
-SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
-SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
+Installed-Size: 6197
+Filename: pool/main/ssh-para_arm64.deb
+Size: 6206938
+MD5sum: b464b2e02309e0262f950087336c246e
+SHA1: 6c9bec218914fd0c56792ec051a5489845825487
+SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/ssh-para
@@ -335,20 +335,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: thefly
-Version: 1.9.0
+Version: 1.9.1
 Architecture: all
 Maintainer: joknarf@free.fr
-Installed-Size: 28
+Installed-Size: 29
 Filename: pool/main/thefly.deb
-Size: 9490
-MD5sum: 89ed28399006dffa0f7399011707a3ce
-SHA1: 7210078af9e482b23563b24fd1fee58fd6503a41
-SHA256: c4c58b0a274abe7d1a58a573eb84833eef4ed8aaa1d7ffb30548d8fdd9ea4e6d
+Size: 9746
+MD5sum: 845ca1ce0036dbe43846adebeb4aeeda
+SHA1: c887f21fa6e54e94a1286c603ba74dfc358fa428
+SHA256: 27dee4562d782daf3342ae9f133e199af6465837d1cc28dc56179a663f5d5762
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/thefly
 Description: shell plugin manager teleporter
-Build-Date: 1779828666
+Build-Date: 1781333473
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
