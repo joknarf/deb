@@ -176,6 +176,24 @@ Build-Date: 1774909754
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
+Package: pypgtree
+Version: 1.1.12
+Architecture: all
+Maintainer: joknarf@free.fr
+Installed-Size: 18
+Filename: pool/main/pypgtree.deb
+Size: 6926
+MD5sum: f8964cfe0747f5d365e5ee482b8cf8a5
+SHA1: ef20b52e4fa636db24c941a6a834e7879a0a36b9
+SHA256: 83394a72d9e16fb5d97c9c11c4b4acc8727c650294ed12bf8ad89b6cb3c2b585
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/pgtree
+Description: process tree search
+Build-Date: 1782766581
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
 Package: pywebfs
 Version: 1.1.24
 Architecture: amd64
