@@ -265,20 +265,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: selector
-Version: 1.6.0
+Version: 1.6.1
 Architecture: all
 Maintainer: joknarf@free.fr
-Installed-Size: 17
+Installed-Size: 18
 Filename: pool/main/selector.deb
-Size: 6706
-MD5sum: c96a596f2ffb9864193b794b58c79bb6
-SHA1: 6c3e4e62290090d58d9a902058f15753bdf90417
-SHA256: d7df9d2b6b145a56c04b8cf71b57454668e0c05edd86f44fb34db6af34d8d283
+Size: 6860
+MD5sum: cdbe2e43dc6d8be8f81c45c185f7fe2b
+SHA1: b8548e336ff8210b36368c65ac7c24a0b3fb41ce
+SHA256: 14dbeecb10428d50090df1a271c75fe3b9b6be085039c9ac2dc0e5b50305677a
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/selector
 Description: Interactive dynamic select menu
-Build-Date: 1783330938
+Build-Date: 1783350322
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
