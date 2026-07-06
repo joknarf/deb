@@ -358,15 +358,15 @@ Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 30
 Filename: pool/main/thefly.deb
-Size: 9892
-MD5sum: 942e47000b97716aaef7b76f4ff95a90
-SHA1: 278dc5df9f4791746ca2ab794f82fdd0fd1a69ca
-SHA256: c1036fa5b2fd5eff8298d1c02b78b81d5e04b27ed5fe0c745384f7b40450335f
+Size: 9890
+MD5sum: 4cd0bfdf9d48a38c32eb2465d3d4c6f9
+SHA1: f3721dea207270d05c352acaa12a7bb8898f1ec5
+SHA256: 4bdddaede1cadde183663d980b23f10b035266e50d56bd9047f08155ce63814d
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/thefly
 Description: shell plugin manager teleporter
-Build-Date: 1783330948
+Build-Date: 1783332120
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
