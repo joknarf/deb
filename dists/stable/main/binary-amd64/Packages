@@ -265,20 +265,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: selector
-Version: 1.5.0
+Version: 1.6.0
 Architecture: all
 Maintainer: joknarf@free.fr
-Installed-Size: 12
+Installed-Size: 17
 Filename: pool/main/selector.deb
-Size: 5514
-MD5sum: 1970d0b28ced421dd7f7376d817e24dd
-SHA1: 0ea0b7c8a9e5c96e39d27ae8aba3b487fdc5b4ea
-SHA256: 68a55fec9b835ac7a98f106683572afacc7b97f8066d9db25446fa14dd545bd9
+Size: 6706
+MD5sum: c96a596f2ffb9864193b794b58c79bb6
+SHA1: 6c3e4e62290090d58d9a902058f15753bdf90417
+SHA256: d7df9d2b6b145a56c04b8cf71b57454668e0c05edd86f44fb34db6af34d8d283
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/selector
 Description: Interactive dynamic select menu
-Build-Date: 1779919904
+Build-Date: 1783330938
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -353,20 +353,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: thefly
-Version: 1.9.1
+Version: 1.9.2
 Architecture: all
 Maintainer: joknarf@free.fr
-Installed-Size: 29
+Installed-Size: 30
 Filename: pool/main/thefly.deb
-Size: 9746
-MD5sum: 845ca1ce0036dbe43846adebeb4aeeda
-SHA1: c887f21fa6e54e94a1286c603ba74dfc358fa428
-SHA256: 27dee4562d782daf3342ae9f133e199af6465837d1cc28dc56179a663f5d5762
+Size: 9892
+MD5sum: 942e47000b97716aaef7b76f4ff95a90
+SHA1: 278dc5df9f4791746ca2ab794f82fdd0fd1a69ca
+SHA256: c1036fa5b2fd5eff8298d1c02b78b81d5e04b27ed5fe0c745384f7b40450335f
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/thefly
 Description: shell plugin manager teleporter
-Build-Date: 1781333473
+Build-Date: 1783330948
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
