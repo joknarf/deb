@@ -18,25 +18,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: fuse-sshautofs
 Version: 1.1.7
-Architecture: arm64
-Maintainer: joknarf@free.fr
-Installed-Size: 2432
-Depends: fuse3, sshfs
-Filename: pool/main/fuse-sshautofs_arm64.deb
-Size: 987890
-MD5sum: 966a17540c12c79cb41adb74a4cec914
-SHA1: 2216f57d8aab9ee09211c76071da5019397689c0
-SHA256: 6b2efc091cb27e3226e3ec3bf95a22d7d52177d7d154ab7025566497ade3c74d
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/fuse-sshautofs
-Description: fuse automount sshfs filesystems
-Build-Date: 1767014541
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: fuse-sshautofs
-Version: 1.1.7
 Architecture: amd64
 Maintainer: joknarf@free.fr
 Installed-Size: 2084
@@ -51,6 +32,25 @@ Priority: optional
 Homepage: https://github.com/joknarf/fuse-sshautofs
 Description: fuse automount sshfs filesystems
 Build-Date: 1767014422
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: fuse-sshautofs
+Version: 1.1.7
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 2432
+Depends: fuse3, sshfs
+Filename: pool/main/fuse-sshautofs_arm64.deb
+Size: 987890
+MD5sum: 966a17540c12c79cb41adb74a4cec914
+SHA1: 2216f57d8aab9ee09211c76071da5019397689c0
+SHA256: 6b2efc091cb27e3226e3ec3bf95a22d7d52177d7d154ab7025566497ade3c74d
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/fuse-sshautofs
+Description: fuse automount sshfs filesystems
+Build-Date: 1767014541
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -248,19 +248,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: run-para
-Version: 1.2.19
+Version: 1.2.21
 Architecture: amd64
 Maintainer: joknarf@free.fr
 Installed-Size: 6858
 Filename: pool/main/run-para_amd64.deb
-Size: 6908778
-MD5sum: 620dbfba8379c4f75e40034aa86761b6
-SHA1: 51c1c3a243311f066d3edf1bc5e558b93834b9f9
-SHA256: f2cd070cab32160448b95e999fa7f5e8f9ce5b48682175584d39be86bb99c525
+Size: 6908708
+MD5sum: fd849d16f1ae3158a2b4aff9c3e720e2
+SHA1: 49db9274835e054e92a44cfab49eb2b5bca6180f
+SHA256: 3930addec2c24ffd8d3293e39d8cb525f581f6239938b94a0dab46e749a6a7b9
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/run-para
-Description: parallel ssh job manager
+Description: parallel job manager
+Build-Date: 1784964160
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
