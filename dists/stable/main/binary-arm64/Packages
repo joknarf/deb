@@ -231,23 +231,6 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: run-para
-Version: 1.2.19
-Architecture: arm64
-Maintainer: joknarf@free.fr
-Installed-Size: 6196
-Filename: pool/main/run-para_arm64.deb
-Size: 6206456
-MD5sum: cb643a4fdf272d5318533dba87c7882f
-SHA1: d6f30c38890fe85672f32f8c0acacc02a26cb4c1
-SHA256: 23155154c043049ea7a05a723ea10571f7cea2f34ca1fe015b0442665ecd8a15
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/run-para
-Description: parallel ssh job manager
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: run-para
 Version: 1.2.21
 Architecture: amd64
 Maintainer: joknarf@free.fr
@@ -262,6 +245,24 @@ Priority: optional
 Homepage: https://github.com/joknarf/run-para
 Description: parallel job manager
 Build-Date: 1784964160
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: run-para
+Version: 1.2.21
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 6196
+Filename: pool/main/run-para_arm64.deb
+Size: 6206488
+MD5sum: d4468b14528b2f40aac6a6a09bea426d
+SHA1: 81257310c64c986704f7c01e0a914f545b260467
+SHA256: 90b3262f13a718a6c85115d444280ef89b71237542cfa286b03e16a9ee6b827f
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/run-para
+Description: parallel job manager
+Build-Date: 1784964251
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
