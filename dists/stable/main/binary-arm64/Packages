@@ -1,18 +1,18 @@
 Package: dfbar
-Version: 1.0.3
+Version: 1.0.4
 Architecture: all
 Maintainer: joknarf@free.fr
-Installed-Size: 3
+Installed-Size: 4
 Filename: pool/main/dfbar.deb
-Size: 2750
-MD5sum: e44d14f82df552f29ff93ea178248c04
-SHA1: 2dd2e40055bcf99c7baefea78f4aea36894143ad
-SHA256: 437232d764044b961635c94792e3975924d1965565739f51c1cd9748b1537c6b
+Size: 2812
+MD5sum: e366927e5c9ac9d5ae7f8791719251dd
+SHA1: b7c8b4117ae57241b3958355cc5aff1c9f469ea8
+SHA256: b114d58ee7a02d371fafd8a57d7e76e07a5a2e660a70f55e44fb5b86a1f2cbca
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/dfbar
 Description: df enhancer with colors and usage percent bar
-Build-Date: 1769852991
+Build-Date: 1785559062
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
