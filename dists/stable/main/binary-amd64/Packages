@@ -123,20 +123,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: pgtree
-Version: 2.1.6
+Version: 2.1.7
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 13
 Filename: pool/main/pgtree.deb
-Size: 6260
-MD5sum: d9875abd7f4a14dc18c06c5eb30e724e
-SHA1: 01fbda437fdab7c46194ae10609f5ff87e01140d
-SHA256: 8e247d2cd19b9aae65fe3a8da25a9d586c982d291329f161a28b3761128c0f86
+Size: 6266
+MD5sum: dc0ffd0cdebd0cd28566e6931bc797d0
+SHA1: ea596583cd11cd92b52006e4fd2dbd61cccbf5fa
+SHA256: f4af23d227d29ce149119b58aa96c64b06d556d8e0f74e80528dd05835b21e9e
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/pgtreeawk
 Description: process tree search
-Build-Date: 1791708601
+Build-Date: 1791710828
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
