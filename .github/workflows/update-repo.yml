@@ -1,7 +1,7 @@
 name: Update DEB Repo
 
 permissions:
-  contents: write  # allow push
+  contents: write      # allow push
   pages: write         # for deploy-pages
   id-token: write      # REQUIRED for deploy-pages@v4
 
