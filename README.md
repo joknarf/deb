@@ -10,3 +10,4 @@ Setup Joknarf Repo on your server:
 curl -OL https://joknarf.github.io/deb/pool/main/joknarf-repo.deb
 sudo dpkg -i joknarf-repo.deb
 ```
+
