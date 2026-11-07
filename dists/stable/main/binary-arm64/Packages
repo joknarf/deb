@@ -142,24 +142,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: portune
 Version: 1.0.16
-Architecture: amd64
-Maintainer: joknarf@free.fr
-Installed-Size: 14654
-Filename: pool/main/portune_amd64.deb
-Size: 14868378
-MD5sum: b1860a7f57b1d9905c3e27ae0ff7f1e6
-SHA1: b12e22617428f4791cf69b195958f16066254307
-SHA256: 1c6c004810195a344d6cf7eef63568cfd58535a2ed4fb64242f692957247d08c
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/portune
-Description: massive port scanner
-Build-Date: 1774909754
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: portune
-Version: 1.0.16
 Architecture: arm64
 Maintainer: joknarf@free.fr
 Installed-Size: 8309
@@ -173,6 +155,24 @@ Priority: optional
 Homepage: https://github.com/joknarf/portune
 Description: massive port scanner
 Build-Date: 1774909875
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: portune
+Version: 1.0.16
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 14654
+Filename: pool/main/portune_amd64.deb
+Size: 14868378
+MD5sum: b1860a7f57b1d9905c3e27ae0ff7f1e6
+SHA1: b12e22617428f4791cf69b195958f16066254307
+SHA256: 1c6c004810195a344d6cf7eef63568cfd58535a2ed4fb64242f692957247d08c
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/portune
+Description: massive port scanner
+Build-Date: 1774909754
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -355,20 +355,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: thefly
-Version: 1.10.0
+Version: 1.10.1
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 31
 Filename: pool/main/thefly.deb
-Size: 10432
-MD5sum: a7fdde95febae7a6e2d19707a2f833c0
-SHA1: 3550b2c6da80c66269a4049e7e2272b41b66473b
-SHA256: 73cb5c93739528c4f4faac0daa6500b35ea8ea1c19201ce954de1b2da3dbec8e
+Size: 10404
+MD5sum: a9f07e1dfc4743b080869fe5be1fe21d
+SHA1: 5c54c0ea730a96847f7745f8ce06c4e5dd6651b2
+SHA256: 1fb5d77b4faa1b8eb345b4caa58c9289718d9ee8f749fb65af53ab8996edd2ce
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/thefly
 Description: shell plugin manager teleporter
-Build-Date: 1793712515
+Build-Date: 1794048445
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
