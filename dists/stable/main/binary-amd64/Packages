@@ -18,25 +18,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: fuse-sshautofs
 Version: 1.1.7
-Architecture: arm64
-Maintainer: joknarf@free.fr
-Installed-Size: 2432
-Depends: fuse3, sshfs
-Filename: pool/main/fuse-sshautofs_arm64.deb
-Size: 987890
-MD5sum: 966a17540c12c79cb41adb74a4cec914
-SHA1: 2216f57d8aab9ee09211c76071da5019397689c0
-SHA256: 6b2efc091cb27e3226e3ec3bf95a22d7d52177d7d154ab7025566497ade3c74d
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/fuse-sshautofs
-Description: fuse automount sshfs filesystems
-Build-Date: 1767014541
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: fuse-sshautofs
-Version: 1.1.7
 Architecture: amd64
 Maintainer: joknarf@free.fr
 Installed-Size: 2084
@@ -51,6 +32,25 @@ Priority: optional
 Homepage: https://github.com/joknarf/fuse-sshautofs
 Description: fuse automount sshfs filesystems
 Build-Date: 1767014422
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: fuse-sshautofs
+Version: 1.1.7
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 2432
+Depends: fuse3, sshfs
+Filename: pool/main/fuse-sshautofs_arm64.deb
+Size: 987890
+MD5sum: 966a17540c12c79cb41adb74a4cec914
+SHA1: 2216f57d8aab9ee09211c76071da5019397689c0
+SHA256: 6b2efc091cb27e3226e3ec3bf95a22d7d52177d7d154ab7025566497ade3c74d
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/fuse-sshautofs
+Description: fuse automount sshfs filesystems
+Build-Date: 1767014541
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -123,20 +123,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: pgtree
-Version: 2.2.2
+Version: 2.2.3
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 39
 Filename: pool/main/pgtree.deb
-Size: 13934
-MD5sum: df0f93799cc89197b295f5fad4593608
-SHA1: 6febfe1f98f04ac8a5c2420326993b2461ef440d
-SHA256: 5091bef7e47fe25732d266f64700c3b7c53f89d77c325aa0cd92582223d7869f
+Size: 13962
+MD5sum: 0b75a70a456d509574593358698852f1
+SHA1: 3d4fd1e34f51f9853b38c750b82f3a816a7101e9
+SHA256: 8f049e6206cea3c4815d4d8ca4ee87e5def4fe243b3941d7e8361cd6c4f371a5
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/pgtreeawk
 Description: process tree search
-Build-Date: 1794732327
+Build-Date: 1794734680
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -232,24 +232,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: run-para
 Version: 1.2.21
-Architecture: arm64
-Maintainer: joknarf@free.fr
-Installed-Size: 6196
-Filename: pool/main/run-para_arm64.deb
-Size: 6206488
-MD5sum: d4468b14528b2f40aac6a6a09bea426d
-SHA1: 81257310c64c986704f7c01e0a914f545b260467
-SHA256: 90b3262f13a718a6c85115d444280ef89b71237542cfa286b03e16a9ee6b827f
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/run-para
-Description: parallel job manager
-Build-Date: 1784964251
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: run-para
-Version: 1.2.21
 Architecture: amd64
 Maintainer: joknarf@free.fr
 Installed-Size: 6858
@@ -263,6 +245,24 @@ Priority: optional
 Homepage: https://github.com/joknarf/run-para
 Description: parallel job manager
 Build-Date: 1784964160
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: run-para
+Version: 1.2.21
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 6196
+Filename: pool/main/run-para_arm64.deb
+Size: 6206488
+MD5sum: d4468b14528b2f40aac6a6a09bea426d
+SHA1: 81257310c64c986704f7c01e0a914f545b260467
+SHA256: 90b3262f13a718a6c85115d444280ef89b71237542cfa286b03e16a9ee6b827f
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/run-para
+Description: parallel job manager
+Build-Date: 1784964251
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -304,14 +304,14 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: ssh-para
 Version: 1.7.52
-Architecture: arm64
+Architecture: amd64
 Maintainer: joknarf@free.fr
-Installed-Size: 6197
-Filename: pool/main/ssh-para_arm64.deb
-Size: 6206938
-MD5sum: b464b2e02309e0262f950087336c246e
-SHA1: 6c9bec218914fd0c56792ec051a5489845825487
-SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
+Installed-Size: 6859
+Filename: pool/main/ssh-para_amd64.deb
+Size: 6909268
+MD5sum: 974f38c30c2e0e61dca78af0a478ddae
+SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
+SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/ssh-para
@@ -321,14 +321,14 @@ Vendor: none
 
 Package: ssh-para
 Version: 1.7.52
-Architecture: amd64
+Architecture: arm64
 Maintainer: joknarf@free.fr
-Installed-Size: 6859
-Filename: pool/main/ssh-para_amd64.deb
-Size: 6909268
-MD5sum: 974f38c30c2e0e61dca78af0a478ddae
-SHA1: 8c5c9c69ad666d28d0fdb750c4fb7b5cdf0428d5
-SHA256: 5a522d79dfe6be33599af5b78ae429f1c12444c213d2d6a90ec59ebe063e170a
+Installed-Size: 6197
+Filename: pool/main/ssh-para_arm64.deb
+Size: 6206938
+MD5sum: b464b2e02309e0262f950087336c246e
+SHA1: 6c9bec218914fd0c56792ec051a5489845825487
+SHA256: a55eccea7346193971b0e78765233552a91853343079ce11c78046be8bed2f82
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/ssh-para
