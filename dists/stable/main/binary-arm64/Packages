@@ -123,38 +123,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: pgtree
-Version: 2.2.3
+Version: 2.2.4
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 39
 Filename: pool/main/pgtree.deb
-Size: 13962
-MD5sum: 0b75a70a456d509574593358698852f1
-SHA1: 3d4fd1e34f51f9853b38c750b82f3a816a7101e9
-SHA256: 8f049e6206cea3c4815d4d8ca4ee87e5def4fe243b3941d7e8361cd6c4f371a5
+Size: 14176
+MD5sum: d972ee316496acbc751141ed0eb8e1cc
+SHA1: f7d200454c05459664dfe9f82d96966305e30e6c
+SHA256: 8aac8faf9969b868c5c3e1403b90b41c037e4ac62da8344ce94a047141ac39ea
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/pgtreeawk
 Description: process tree search
-Build-Date: 1794734680
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: portune
-Version: 1.0.16
-Architecture: arm64
-Maintainer: joknarf@free.fr
-Installed-Size: 8309
-Filename: pool/main/portune_arm64.deb
-Size: 8405290
-MD5sum: 9d3edead6735baab3057730d56d16747
-SHA1: 305425344cff8a2fdff12b75c0cd6b56778caaf9
-SHA256: 629bef0f628bbfa6a3c8bd019028c03d1c3d775e8ece6c0d9cd6027659aaa05b
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/portune
-Description: massive port scanner
-Build-Date: 1774909875
+Build-Date: 1795463262
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -173,6 +155,24 @@ Priority: optional
 Homepage: https://github.com/joknarf/portune
 Description: massive port scanner
 Build-Date: 1774909754
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: portune
+Version: 1.0.16
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 8309
+Filename: pool/main/portune_arm64.deb
+Size: 8405290
+MD5sum: 9d3edead6735baab3057730d56d16747
+SHA1: 305425344cff8a2fdff12b75c0cd6b56778caaf9
+SHA256: 629bef0f628bbfa6a3c8bd019028c03d1c3d775e8ece6c0d9cd6027659aaa05b
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/portune
+Description: massive port scanner
+Build-Date: 1774909875
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -196,24 +196,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: pywebfs
 Version: 1.1.24
-Architecture: arm64
-Maintainer: joknarf@free.fr
-Installed-Size: 27168
-Filename: pool/main/pywebfs_arm64.deb
-Size: 10354906
-MD5sum: 35a58eb05d97292d5f997f10400de880
-SHA1: ed830cbd2c90dd249183cccaccc04b0b14b7f7cc
-SHA256: 0d2d3ffc5b7ba4e5cb6d8cdabe37a7b82f30c6d0f953c3f2bae56d8ab7d06e6f
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/pywebfs
-Description: Simple HTTP File Server
-Build-Date: 1767190730
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: pywebfs
-Version: 1.1.24
 Architecture: amd64
 Maintainer: joknarf@free.fr
 Installed-Size: 26594
@@ -227,6 +209,24 @@ Priority: optional
 Homepage: https://github.com/joknarf/pywebfs
 Description: Simple HTTP File Server
 Build-Date: 1767190600
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: pywebfs
+Version: 1.1.24
+Architecture: arm64
+Maintainer: joknarf@free.fr
+Installed-Size: 27168
+Filename: pool/main/pywebfs_arm64.deb
+Size: 10354906
+MD5sum: 35a58eb05d97292d5f997f10400de880
+SHA1: ed830cbd2c90dd249183cccaccc04b0b14b7f7cc
+SHA256: 0d2d3ffc5b7ba4e5cb6d8cdabe37a7b82f30c6d0f953c3f2bae56d8ab7d06e6f
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/pywebfs
+Description: Simple HTTP File Server
+Build-Date: 1767190730
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
