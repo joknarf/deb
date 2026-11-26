@@ -123,20 +123,20 @@ License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: pgtree
-Version: 2.2.4
+Version: 2.2.5
 Architecture: all
 Maintainer: joknarf@free.fr
 Installed-Size: 39
 Filename: pool/main/pgtree.deb
-Size: 14176
-MD5sum: d972ee316496acbc751141ed0eb8e1cc
-SHA1: f7d200454c05459664dfe9f82d96966305e30e6c
-SHA256: 8aac8faf9969b868c5c3e1403b90b41c037e4ac62da8344ce94a047141ac39ea
+Size: 14174
+MD5sum: 8216ac95caf0c31a8fd7e03d5406e547
+SHA1: d63b7242e5d82921d5ce3c32dd23bb646a39160f
+SHA256: acf1f3504e6ab8e33684a000cef6f685ec071fffd9c034c21fe06df11382cb7d
 Section: default
 Priority: optional
 Homepage: https://github.com/joknarf/pgtreeawk
 Description: process tree search
-Build-Date: 1795463262
+Build-Date: 1795729267
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
@@ -232,24 +232,6 @@ Vendor: https://joknarf.github.io/joknarf-tools
 
 Package: run-para
 Version: 1.2.21
-Architecture: amd64
-Maintainer: joknarf@free.fr
-Installed-Size: 6858
-Filename: pool/main/run-para_amd64.deb
-Size: 6908708
-MD5sum: fd849d16f1ae3158a2b4aff9c3e720e2
-SHA1: 49db9274835e054e92a44cfab49eb2b5bca6180f
-SHA256: 3930addec2c24ffd8d3293e39d8cb525f581f6239938b94a0dab46e749a6a7b9
-Section: default
-Priority: optional
-Homepage: https://github.com/joknarf/run-para
-Description: parallel job manager
-Build-Date: 1784964160
-License: MIT
-Vendor: https://joknarf.github.io/joknarf-tools
-
-Package: run-para
-Version: 1.2.21
 Architecture: arm64
 Maintainer: joknarf@free.fr
 Installed-Size: 6196
@@ -263,6 +245,24 @@ Priority: optional
 Homepage: https://github.com/joknarf/run-para
 Description: parallel job manager
 Build-Date: 1784964251
+License: MIT
+Vendor: https://joknarf.github.io/joknarf-tools
+
+Package: run-para
+Version: 1.2.21
+Architecture: amd64
+Maintainer: joknarf@free.fr
+Installed-Size: 6858
+Filename: pool/main/run-para_amd64.deb
+Size: 6908708
+MD5sum: fd849d16f1ae3158a2b4aff9c3e720e2
+SHA1: 49db9274835e054e92a44cfab49eb2b5bca6180f
+SHA256: 3930addec2c24ffd8d3293e39d8cb525f581f6239938b94a0dab46e749a6a7b9
+Section: default
+Priority: optional
+Homepage: https://github.com/joknarf/run-para
+Description: parallel job manager
+Build-Date: 1784964160
 License: MIT
 Vendor: https://joknarf.github.io/joknarf-tools
 
